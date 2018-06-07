@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-. colors
+
 
 #remove stupid rep file for smaller updates
 [[ -f /etc/apt/sources.list.d/amdgpu-pro.list ]] && rm /etc/apt/sources.list.d/amdgpu-pro.list
